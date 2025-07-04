@@ -1,0 +1,4 @@
+.env
+__pycache__/
+calendar.json
+#This ensures .env and local calendar file never go to GitHub.
